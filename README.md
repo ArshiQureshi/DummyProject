@@ -1,2 +1,0 @@
-# DummyProject
-dummy
